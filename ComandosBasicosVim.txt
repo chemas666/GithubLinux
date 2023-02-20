@@ -1,0 +1,13 @@
+jose maruia fuentes rodirguez 
+Comandos bascon vim
+i = Entrar en el modo de inserción
+esc = Entrar en el modo comando
+x = El carácter de borrado es el modo de retroceso
+u = Deshacer cambios
+yy = Copiar una línea
+dd = Eliminar una línea
+pp = Pegar el contenido del buffer
+Esc + :w = Guardar cambios
+Esc + :wq or Esc + ZZ	 = Guardar y salir de Vim
+
+
